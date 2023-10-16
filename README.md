@@ -6,7 +6,7 @@
 <h5 align="center">Sacrifice.Zip</h5>
 
 
-# 💻 Tech Stack:
+<h1 align="center">💻 Tech Stack:</h1>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ImSacrifice&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
