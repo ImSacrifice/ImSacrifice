@@ -7,18 +7,23 @@
 
 
 
-<div align="center">
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <strong>💻 Tech Stack:</strong><br>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"> <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ImSacrifice&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ImSacrifice&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImSacrifice&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <strong>📊 GitHub Stats:</strong><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ImSacrifice&theme=dark&hide_border=false&include_all_commits=false&count_private=false"><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImSacrifice&theme=dark&hide_border=false"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImSacrifice&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ImSacrifice&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <strong>🏆 GitHub Trophies</strong><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=ImSacrifice&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=ImSacrifice&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ImSacrifice&icon=0&color=0" alt="Visit Count">
+</p>
