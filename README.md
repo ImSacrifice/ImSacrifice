@@ -5,11 +5,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imsacrifice&label=Profile%20views&color=0e75b6&style=flat" alt="imsacrifice" /> </p>
 
-<p align="center">If you'd like to contact me, my discord is</p>
-<h5 align="center">Sacrifice.Zip</h5>
-
-
-
 <p align="center">
   <strong>💻 Tech Stack:</strong><br>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"> <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -27,6 +22,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ImSacrifice&theme=radical&no-frame=false&no-bg=true&margin-w=4">
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ImSacrifice&icon=0&color=0" alt="Visit Count">
-</p>
+<p align="center">My socials are<br>Discord : Sacrifice.zip<br>Telegram : SacrificeOnly</p>
