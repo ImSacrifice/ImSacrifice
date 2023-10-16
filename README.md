@@ -22,4 +22,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ImSacrifice&theme=radical&no-frame=false&no-bg=true&margin-w=4">
 </p>
 
-<p align="center">My socials are<br>Discord : Sacrifice.zip<br>Telegram : SacrificeOnly</p>
+<p align="center"><strong>My socials are</strong><br>Discord : Sacrifice.zip<br>Telegram : SacrificeOnly</p>
