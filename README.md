@@ -1,5 +1,8 @@
-<h1 align="center">I'm Sacrifice</h1>
-<h3 align="center">With my initial interest in the 2020 program initiated, I embarked on a journey of further education. My first steps into entering the coding world was to understand the basics of HTML and CSS. From there I continued to accelerate and found out that I was in love with this new world. My creative ideas instantly became possible. In the start of January of 2023 I was introduced into python. I fell in love with the language and continued to study it. I am trying to advance, so hopefully some of my repos can help you out!</h3>
+<p align="center">
+  # Wassup, I'm Sacrifice
+  ### With my initial interest in the 2020 program initiated, I embarked on a journey of further education. My first steps into entering the coding world was to understand the basics of HTML and CSS. From there I continued to accelerate and found out that I was in love with this new world. My creative ideas instantly became possible. In the start of January of 2023 I was introduced into python. I fell in love with the language and continued to study it. I am trying to advance, so hopefully some of my repos can help you out!
+</p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imsacrifice&label=Profile%20views&color=0e75b6&style=flat" alt="imsacrifice" /> </p>
 
 <p align="center">If you'd like to contact me, my discord is</p>
